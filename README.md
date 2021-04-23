@@ -30,13 +30,20 @@ Projects
 --------
 * SNUGDC(Seoul National University Game Development Club) (2015~2018)
   * 씨앗발아원정대(crpg) (UI programmer)
-  * 홈어론(Sub Programmer)
+    * https://github.com/SNUGDC/snugdc-project-sprpg
   * quadraonoid (Sub Programmer)
-  * crpg (Main Programmer)
-* Colorfulage (2017~2018)
-  * Project Manager
+    * https://github.com/SNUGDC/TSGs
+  * 홈어론(Sub Programmer)
+    * https://github.com/SNUGDC/HomeAlone
+    * https://play.google.com/store/apps/details?id=com.GDC.HomeAlone&hl=ko&gl=US
+  * AntiGodGame (Main Programmer)
+     * https://github.com/SNUGDC/AntiGodgame
+* Colorflage (2017~2018)
+  * Colorflage Project Manager
+  * https://www.youtube.com/watch?v=1HVa9iE-Vgo
 * 경기게임영재캠프 (2016, 2018, 2019)
-  *
+  * 2018 Winter Camp : https://github.com/GeanggiGameCamp/escape-hosipital
+  * 2019 Winter Camp : https://github.com/timbear00/Shooting
 
 * HANARO(Seoul National University Rocket Club) (2019)
 
