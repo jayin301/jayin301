@@ -8,9 +8,9 @@ Education
 Skills
 ------
 * Programming languages
-  * Professional Level(more than 3 years)
+  * Intermediate Level(more than 3 years)
     * C, C++, C#, Java, Python
-  * Intermediate Level(1~3 years)
+  * Beginner Level(1~3 years)
     * Golang, Typescript
   * Learning Level(less than 1 year)
     * R, SQL(studying), P4(switch prgrammable hardware langauge)
