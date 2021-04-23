@@ -39,8 +39,6 @@ Projects
   *
 
 * HANARO(Seoul National University Rocket Club) (2019)
-* lIlIlIllI (Naver Speech AI Hackerton) (2019)
-  * Semi-Final (rank in 13th) 
 
 
 Career
