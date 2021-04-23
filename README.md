@@ -28,7 +28,8 @@ Skills
 Career
 ------
 * Alphanonce Intern (2020.06 ~ 2021.02)
-  * Front-end Engineer & Data ETL Server Engineer
+  * Front-end Engineer(2020.06~2020.09)
+  * Data ETL Server Engineer(2020.09~2021.02)
 
 
 Projects
