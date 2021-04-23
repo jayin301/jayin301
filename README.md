@@ -41,7 +41,7 @@ Projects
 * Colorflage (2017~2018)
   * Colorflage Project Manager
   * https://www.youtube.com/watch?v=1HVa9iE-Vgo
-* 경기게임영재캠프 (2016, 2018, 2019)
+* 경기게임영재캠프 멘토 (2016, 2018, 2019)
   * 2018 Winter Camp : https://github.com/GeanggiGameCamp/escape-hosipital
   * 2019 Winter Camp : https://github.com/timbear00/Shooting
 
