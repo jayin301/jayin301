@@ -18,7 +18,7 @@ Skills
   * Server
     * Echo(Golang)
   * ML
-    * TensorFlow, pytorch(python)
+    * TensorFlow, PyTorch(python)
   * DB
     * postgreSQL
 * Version Control
