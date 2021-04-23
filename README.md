@@ -15,8 +15,8 @@ Skills
   * Learning Level(less than 1 year)
     * R, SQL(studying), P4(switch prgrammable hardware langauge)
 * FrameWork, library . . .
-  * server
-    * echo(golang)
+  * Server
+    * Echo(Golang)
   * ML
     * TensorFlow, pytorch(python)
   * DB
