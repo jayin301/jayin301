@@ -5,13 +5,6 @@ Education
 * Bokja girl's high school (2012.3~2015.3)
 
 
-
-Career
-------
-* Alphanonce Intern (2020.06 ~ 2021.02)
-  * FrontEnd Engineer & Data ETL Server Engineer
-
-
 Skills
 ------
 * Programming languages
@@ -30,6 +23,12 @@ Skills
     * postgreSQL
 * Version Management Program
   * Git, Git bucket, Perforce
+
+
+Career
+------
+* Alphanonce Intern (2020.06 ~ 2021.02)
+  * FrontEnd Engineer & Data ETL Server Engineer
 
 
 Projects
