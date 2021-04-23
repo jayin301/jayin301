@@ -8,8 +8,8 @@ Education
 Skills
 ------
 * Programming languages
-  * Professional Level(more than 3years)
-    * C, Cpp, C#, java, Python
+  * Professional Level(more than 3 years)
+    * C, C++, C#, Java, Python
   * Intermediate Level(1~3 years)
     * Golang, Typescript
   * Learning Level(less than 1 year)
@@ -51,6 +51,7 @@ Projects
   * 2019 Winter Camp : https://github.com/timbear00/Shooting
 
 * HANARO(Seoul National University Rocket Club) (2019)
+  * Chef of Electric/Communication Engineer Team
 
 
 
