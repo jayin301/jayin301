@@ -21,7 +21,7 @@ Skills
     * TensorFlow, pytorch(python)
   * DB
     * postgreSQL
-* Version Management Program
+* Version Control
   * Git, Git bucket, Perforce
 
 
