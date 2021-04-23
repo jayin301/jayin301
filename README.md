@@ -6,6 +6,12 @@ Education
 
 
 
+Career
+------
+* Alphanonce Intern (2020.06 ~ 2021.02)
+  * FrontEnd Engineer & Data ETL Server Engineer
+
+
 Skills
 ------
 * Programming languages
@@ -47,11 +53,6 @@ Projects
 
 * HANARO(Seoul National University Rocket Club) (2019)
 
-
-Career
-------
-* Alphanonce Intern (2020.06 ~ 2021.02)
-  * FrontEnd Engineer & Data ETL Server Engineer
 
 
 
