@@ -2,7 +2,7 @@
 Education
 ---------
 * Seoul National University (2015.3~2021.8)
-* Bokja girl's high school (2012.3~2015.3)
+  * Major: Electrical&Computer Engineering
 
 
 Skills
