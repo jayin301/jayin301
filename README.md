@@ -40,13 +40,15 @@ Projects
   * quadraonoid (Sub Programmer)
     * https://github.com/SNUGDC/TSGs
   * 홈어론(Sub Programmer)
+    * Hit 10K downloads!
     * https://github.com/SNUGDC/HomeAlone
     * https://play.google.com/store/apps/details?id=com.GDC.HomeAlone&hl=ko&gl=US
   * AntiGodGame (Main Programmer)
      * https://github.com/SNUGDC/AntiGodgame
 * Colorflage (2017~2018)
   * Colorflage Project Manager
-  * https://www.youtube.com/watch?v=1HVa9iE-Vgo
+  * (Code is Private for Commercial Reason)
+  * Preview Video: https://www.youtube.com/watch?v=1HVa9iE-Vgo
 * 경기게임영재캠프 멘토 (2016, 2018, 2019)
   * 2018 Winter Camp : https://github.com/GeanggiGameCamp/escape-hosipital
   * 2019 Winter Camp : https://github.com/timbear00/Shooting
