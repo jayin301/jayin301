@@ -22,7 +22,7 @@ Skills
   * DB
     * postgreSQL
 * Version Control
-  * Git, Git bucket, Perforce
+  * Git, Perforce
 
 
 Career
