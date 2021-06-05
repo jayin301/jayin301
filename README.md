@@ -53,6 +53,9 @@ Projects
   * 2018 Winter Camp : https://github.com/GeanggiGameCamp/escape-hosipital
   * 2019 Winter Camp : https://github.com/timbear00/Shooting
 
+* Naver Speech AI Hackerton (2019)
+  * team lIlIllIl
+  
 * HANARO(Seoul National University Rocket Club) (2019)
   * Chef of Electric/Communication Engineer Team
 
