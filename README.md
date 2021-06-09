@@ -54,7 +54,7 @@ Projects
   * 2019 Winter Camp : https://github.com/timbear00/Shooting
 
 * Naver Speech AI Hackerton (2019)
-  * team lIlIllIl
+  * team lIlIllIl (lank in 14)
   
 * HANARO(Seoul National University Rocket Club) (2019)
   * Chef of Electric/Communication Engineer Team
