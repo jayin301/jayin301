@@ -59,6 +59,7 @@ Projects
 * HANARO(Seoul National University Rocket Club) (2019)
   * Chef of Electric/Communication Engineer Team
 
+* Autonomous AC Car Project (2021.7~ )
 
 
 
