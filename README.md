@@ -62,6 +62,7 @@ Projects
 * Autonomous AC Car Project (2021.7~ 2021.8)
 
 * Tweetbot interconnected with GoogleSpreadsheet(Toy Project) (2021.8~2021.9)
+  * github library: https://github.com/jayin301/tweetbot_trpg
   * Tweetbot which assist Trpg playing at Tweeter
   * can support various type of imitation 'Gotcha' at Twitter
 
