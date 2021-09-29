@@ -59,7 +59,11 @@ Projects
 * HANARO(Seoul National University Rocket Club) (2019)
   * Chef of Electric/Communication Engineer Team
 
-* Autonomous AC Car Project (2021.7~ )
+* Autonomous AC Car Project (2021.7~ 2021.8)
+
+* Tweetbot interconnected with GoogleSpreadsheet(Toy Project) (2021.8~2021.9)
+  * Tweetbot which assist Trpg playing at Tweeter
+  * can support various type of imitation 'Gotcha' at Twitter
 
 
 
