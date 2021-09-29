@@ -34,6 +34,21 @@ Career
 
 Projects
 --------
+
+* Tweetbot interconnected with GoogleSpreadsheet(Toy Project) (2021.8~2021.9)
+  * github library: https://github.com/jayin301/tweetbot_trpg
+  * Tweetbot which assist Trpg playing at Tweeter
+  * can support various type of imitation 'Gotcha' at Twitter
+
+* Autonomous AC Car Project (2021.7~ 2021.8)
+  * Computer Vision and Motor Controller team
+
+* Naver Speech AI Hackerton (2019)
+  * team lIlIllIl (rank in 14)
+
+* HANARO(Seoul National University Rocket Club) (2019)
+  * Chef of Electric/Communication Engineer Team
+
 * SNUGDC(Seoul National University Game Development Club) (2015~2018)
   * 씨앗발아원정대(crpg) (UI programmer)
     * https://github.com/SNUGDC/snugdc-project-sprpg
@@ -52,19 +67,9 @@ Projects
 * 경기게임영재캠프 멘토 (2016, 2018, 2019)
   * 2018 Winter Camp : https://github.com/GeanggiGameCamp/escape-hosipital
   * 2019 Winter Camp : https://github.com/timbear00/Shooting
-
-* Naver Speech AI Hackerton (2019)
-  * team lIlIllIl (rank in 14)
   
-* HANARO(Seoul National University Rocket Club) (2019)
-  * Chef of Electric/Communication Engineer Team
 
-* Autonomous AC Car Project (2021.7~ 2021.8)
 
-* Tweetbot interconnected with GoogleSpreadsheet(Toy Project) (2021.8~2021.9)
-  * github library: https://github.com/jayin301/tweetbot_trpg
-  * Tweetbot which assist Trpg playing at Tweeter
-  * can support various type of imitation 'Gotcha' at Twitter
 
 
 
