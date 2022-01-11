@@ -30,7 +30,8 @@ Career
 * Alphanonce Intern (2020.06 ~ 2021.02)
   * Front-end Engineer(2020.06~2020.09)
   * Data ETL Server Engineer(2020.09~2021.02)
-
+* Holix Factory
+  * Backend Engineer(2021.10.25~)
 
 Projects
 --------
