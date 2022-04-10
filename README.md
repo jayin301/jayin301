@@ -16,11 +16,11 @@ Skills
     * R, SQL(studying), P4(switch prgrammable hardware langauge)
 * FrameWork, library . . .
   * Server
-    * Echo(Golang)
+    * Echo(Golang), Django(Python)
   * ML
     * TensorFlow, PyTorch(python), keras
   * DB
-    * postgreSQL
+    * postgreSQL, CosmosDb
 * Version Control
   * Git, Perforce
 
