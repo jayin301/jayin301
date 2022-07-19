@@ -31,9 +31,9 @@ Career
   * Front-end Engineer(2020.06~2020.09)
   * Data ETL Server Engineer(2020.09~2021.02)
 * Holix Factory
-  * Backend Engineer(2021.10.25~2021.06.07)
+  * Backend Engineer(2021.10.25~2022.06.07)
 * Poomang
-  * Full stack Engineer(2021.07.11~ )
+  * Full stack Engineer(2022.07.11~ )
 
 Projects
 --------
