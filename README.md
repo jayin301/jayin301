@@ -11,16 +11,18 @@ Skills
   * Intermediate Level(more than 3 years)
     * C, C++, C#, Java, Python
   * Beginner Level(1~3 years)
-    * Golang, Typescript
+    * Golang, Java/Typescript, CSS
   * Learning Level(less than 1 year)
     * R, SQL(studying), P4(switch prgrammable hardware langauge)
 * FrameWork, library . . .
   * Server
     * Echo(Golang), Django(Python)
+  * front
+    * react(node.js)
   * ML
     * TensorFlow, PyTorch(python), keras
   * DB
-    * postgreSQL, CosmosDb
+    * postgreSQL, CosmosDb, dynamoDB, mySQL
 * Version Control
   * Git, Perforce
 
