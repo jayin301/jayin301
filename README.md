@@ -9,16 +9,16 @@ Skills
 ------
 * Programming languages
   * Intermediate Level(more than 3 years)
-    * C, C++, C#, Java, Python
+    * Java/Typescript, C, C++, C#, Java, Python
   * Beginner Level(1~3 years)
-    * Golang, Java/Typescript, CSS
+    * Golang, CSS
   * Learning Level(less than 1 year)
     * R, SQL(studying), P4(switch prgrammable hardware langauge)
 * FrameWork, library . . .
   * Server
-    * Echo(Golang), Django(Python)
+    * Echo(Golang), Django(Python), Nest.js
   * front
-    * react(node.js)
+    * react(Typescrtipt)
   * ML
     * TensorFlow, PyTorch(python), keras
   * DB
@@ -35,7 +35,7 @@ Career
 * Holix Factory
   * Backend Engineer(2021.10.25~2022.06.07)
 * Poomang
-  * Full stack Engineer(2022.07.11~ )
+  * Software Engineer(2022.07.11~ )
 
 Projects
 --------
