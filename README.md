@@ -35,7 +35,11 @@ Career
 * Holix Factory
   * Backend Engineer(2021.10.25~2022.06.07)
 * Poomang
-  * Software Engineer(2022.07.11~ )
+  * Software Engineer(2022.07.11~2023.02.22)
+* Kakao Enterprise
+  * Software Engineer(2023.04.24~2023.10.27)
+* Korea Investment
+  * Backend Engineer(2023.10.30~ )
 
 Projects
 --------
