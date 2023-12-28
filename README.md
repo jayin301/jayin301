@@ -16,15 +16,13 @@ Skills
     * R, SQL(studying), P4(switch prgrammable hardware langauge)
 * FrameWork, library . . .
   * Server
-    * Echo(Golang), Django(Python), Nest.js
-  * front
+    * Django(Python), Spring(Java), Nest.js, Echo(Golang)
+  * Front
     * react(Typescrtipt)
   * ML
     * TensorFlow, PyTorch(python), keras
   * DB
-    * postgreSQL, CosmosDb, dynamoDB, mySQL
-* Version Control
-  * Git, Perforce
+    * postgreSQL, CosmosDb, dynamoDB, mySQL...
 
 
 Career
