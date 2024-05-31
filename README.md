@@ -11,7 +11,7 @@ Skills
   * Intermediate Level(more than 3 years)
     * Java/Typescript, C, C++, C#, Java, Python
   * Beginner Level(1~3 years)
-    * Golang, CSS
+    * Kotlin, Golang, CSS
   * Learning Level(less than 1 year)
     * R, SQL(studying), P4(switch prgrammable hardware langauge)
 * FrameWork, library . . .
